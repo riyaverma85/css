@@ -1,0 +1,52 @@
+body{
+    background: wheat;
+
+}
+h1{
+    margin-top: 10px;
+    height: 100px;
+    width: 100px;
+    color: aqua;
+    border: 5px solid red;
+    border-radius: 50%;
+    padding: 50px;
+    margin: 30%;
+    background-color: black;
+
+}
+h2{
+    border: 5px solid ;
+    background-color: blueviolet;
+    text-align: center;
+    margin-left: 10%;
+    border-radius:10% ;
+    margin-right: 10%;
+    
+    padding-left: 10%;
+
+}
+p{
+    text-align: center;
+}
+.great{ 
+    font-style: italic;
+    font-size: xx-large;
+    color: blue;
+    text-decoration:overline;
+    border: 50px;
+    font-weight: bolder;
+background-color:lavenderblush;
+
+    
+    
+    
+}
+     .rock{
+        font-size: xx-large;
+        background-color: aqua;
+     }
+
+img{
+
+}
+     
