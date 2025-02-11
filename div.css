@@ -21,7 +21,7 @@ font-size: xx-large;
 box-shadow:5px 5px 5px 10px  gray ;
 width: 50%;
 height: 100%;
-background-image: url(./images.jpg);
+background-image: url(./images.jpg) width:400px;
 
 }
 .box{

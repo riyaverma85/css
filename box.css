@@ -1,0 +1,35 @@
+.c{
+    color:greenyellow;
+    
+}
+.y{
+    color: aqua;
+}
+.b{
+    color: coral;
+}
+.r{
+    color: deeppink;
+}
+.o{
+    color: darkblue;
+}
+.m{
+    color: gold;
+}
+h1{
+    text-shadow: 10px 10px 5px gray;
+}
+   
+div{
+    font-size: 32px;
+    width: 400%;
+    height: 400%;
+    background-color: aqua;
+    padding: 50px;
+    display: table-cell;
+    border: dotted;
+     box-shadow: 10px 10px 5px;
+
+}
+
