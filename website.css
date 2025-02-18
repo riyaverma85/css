@@ -25,13 +25,15 @@
     list-style: none;
     font-size: 14px;
 }
-{
+ #navbar div nav ul li a{
      text-decoration: none;
      color: black;
 }
 
+
 #navbar div nav ul li a:hover{
     color: rgb(250, 127 ,99);
+    font-size: 20px;
 }
 #navbar .icons{
     display: flex;
